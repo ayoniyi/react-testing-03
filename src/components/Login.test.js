@@ -34,7 +34,7 @@ test("button should be rendered", () => {
   expect(buttonEl).toBeInTheDocument();
 });
 
-// elements should be emoty
+// elements should be empty
 
 test("username input should be empty by default", () => {
   //Arrange
